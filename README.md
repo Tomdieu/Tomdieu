@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tomdieu
-- 👀 I’m interested in Python ,PyQt ,Javascript ,Django
-- 🌱 I’m currently learning NextJs,ReactJs,React native,Electron Js
+- 👀 I’m interested in Python ,PyQt ,Javascript ,Django & Django Rest Api
+- 🌱 I’m currently learning NextJs,ReactJs,React Native,Electron Js
 - 💞️ I’m looking to collaborate on Django Projects,Javascript Projects
 - 📫 How to reach me ivantomdio@gmail.com
 
