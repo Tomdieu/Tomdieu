@@ -38,7 +38,7 @@
 -->
 
 <br/>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tomdieu&" alt="tomdieu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomdieu&" alt="tomdieu" /></p>
 
 
 
