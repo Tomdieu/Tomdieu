@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with [Mapbox with React Native using Expo](#)
 
-- 💬 Ask me about **Django,ReactJs,PyQt,Django Rest Framewor**
+- 💬 Ask me about **Django,ReactJs,PyQt,Django Rest Framework**
 
 - 📫 How to reach me **ivantomdio@gmail.com**
 
