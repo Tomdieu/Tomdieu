@@ -35,7 +35,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tomdieu&show_icons=true&locale=en" alt="tomdieu" /></p>
 
 -->
-<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tomdieu&" alt="tomdieu" /></p>
+<p align="right"><img width="400" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tomdieu&" alt="tomdieu" /></p>
 
 [![@ivantom's Holopin board](https://holopin.me/ivantom)](https://holopin.io/@ivantom)
 
