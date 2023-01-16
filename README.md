@@ -46,7 +46,7 @@
   
 </p>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ivantom/64a97c26-a197-4ba3-9cea-d9c5abeef643.png" /></a>
+<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ivantom/64a97c26-a197-4ba3-9cea-d9c5abeef643.png" /></a> -->
 
 <a href="https://wakatime.com/@7a03d500-b310-4adb-9229-1bb6044d565d"><img src="https://wakatime.com/badge/user/7a03d500-b310-4adb-9229-1bb6044d565d.svg" alt="Total time coded since Dec 28 2022" /></a>
 <!---
