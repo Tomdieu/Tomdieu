@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tomdieu</h1>
 <h3 align="center">A passionate of software development</h3>
 
-<p align="center">
+<p align="center" style="display:flex;align-items:center;gap:10px">
   
+<a href="https://wakatime.com/@7a03d500-b310-4adb-9229-1bb6044d565d"><img src="https://wakatime.com/badge/user/7a03d500-b310-4adb-9229-1bb6044d565d.svg" alt="Total time coded since Dec 28 2022" /></a>
 <img src="https://komarev.com/ghpvc/?username=tomdieu&label=Profile%20views&color=0e75b6&style=flat" alt="tomdieu" /> 
 </p>
 
@@ -48,7 +49,7 @@
 
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ivantom/64a97c26-a197-4ba3-9cea-d9c5abeef643.png" /></a> -->
 
-<a href="https://wakatime.com/@7a03d500-b310-4adb-9229-1bb6044d565d"><img src="https://wakatime.com/badge/user/7a03d500-b310-4adb-9229-1bb6044d565d.svg" alt="Total time coded since Dec 28 2022" /></a>
+
 <!---
 Tomdieu/Tomdieu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
