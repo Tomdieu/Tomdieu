@@ -41,11 +41,15 @@
 -->
 <p align="right"><img width="400" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tomdieu&" alt="tomdieu" /></p>
 
+<!--[![Wakatime](https://wakatime.com/share/@ivantom/8bc38c1a-0d4e-4f9f-9287-8cb0cdcdf4e9.svg)](https://wakatime.com/share/@ivantom/8bc38c1a-0d4e-4f9f-9287-8cb0cdcdf4e9.svg)
+-->
 <p style="margin-top:10px">
 
 [![@ivantom's Holopin board](https://holopin.me/ivantom)](https://holopin.io/@ivantom)
   
 </p>
+
+<img style="border-radius:8px" src="https://wakatime.com/share/@ivantom/8bc38c1a-0d4e-4f9f-9287-8cb0cdcdf4e9.svg" width="50%" height="300"/>
 
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ivantom/64a97c26-a197-4ba3-9cea-d9c5abeef643.png" /></a> -->
 
