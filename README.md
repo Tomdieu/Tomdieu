@@ -49,11 +49,6 @@
   
 </p>
 
-<img style="border-radius:8px" src="https://wakatime.com/share/@ivantom/8bc38c1a-0d4e-4f9f-9287-8cb0cdcdf4e9.svg" width="50%" height="300"/>
-
-<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ivantom/64a97c26-a197-4ba3-9cea-d9c5abeef643.png" /></a> -->
-
-
 <!---
 Tomdieu/Tomdieu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
