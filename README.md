@@ -43,9 +43,18 @@
 
 <!--[![Wakatime](https://wakatime.com/share/@ivantom/8bc38c1a-0d4e-4f9f-9287-8cb0cdcdf4e9.svg)](https://wakatime.com/share/@ivantom/8bc38c1a-0d4e-4f9f-9287-8cb0cdcdf4e9.svg)
 -->
+
+<figure><embed src="https://wakatime.com/share/@ivantom/ff1c4290-c2e3-4f2b-8fb3-5c4d676aafcf.svg"></embed></figure>
+
 <p style="margin-top:10px">
 
 [![@ivantom's Holopin board](https://holopin.me/ivantom)](https://holopin.io/@ivantom)
+  
+</p>
+
+<p style="margin-top:10px">
+
+[![@ivantom wakatime stats]([[https://holopin.me/ivantom](https://wakatime.com/@ivantom)](https://wakatime.com/share/@ivantom/ff1c4290-c2e3-4f2b-8fb3-5c4d676aafcf.svg))]([https://holopin.io/@ivantom](https://wakatime.com/share/@ivantom/ff1c4290-c2e3-4f2b-8fb3-5c4d676aafcf.svg))
   
 </p>
 
