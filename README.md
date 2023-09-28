@@ -49,7 +49,7 @@
 <p style="margin-top:10px">
 
 [![@ivantom's Holopin board](https://holopin.me/ivantom)](https://holopin.io/@ivantom)
-  
+[![An image of @tomdieu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tomdieu)](https://holopin.io/@tomdieu)
 </p>
 
 <p style="margin-top:10px">
