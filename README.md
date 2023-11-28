@@ -54,7 +54,7 @@
 <p style="margin-top:10px">
 <!-- [![Tomdieu Wakatime Activity](https://wakatime.com/tomdieu)](https://wakatime.com/share/@ivantom/a8a29f6f-5998-4562-be1b-900bafbb5666.png) -->
 </p>
-<img src="https://wakatime.com/share/@ivantom/a8a29f6f-5998-4562-be1b-900bafbb5666.png" alt="Tomdieu" width="100%"  />
+<!-- <img src="https://wakatime.com/share/@ivantom/a8a29f6f-5998-4562-be1b-900bafbb5666.png" alt="Tomdieu" width="100%"  /> -->
 
 <!---
 Tomdieu/Tomdieu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
