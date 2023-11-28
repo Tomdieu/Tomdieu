@@ -35,11 +35,10 @@
 <p align="left"><img width="340" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomdieu&show_icons=true&locale=en&layout=compact" alt="tomdieu" /></p>
 
 
-<!--
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tomdieu&show_icons=true&locale=en" alt="tomdieu" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tomdieu&show_icons=true&locale=en" alt="tomdieu" /></p>
 
--->
-<p align="right"><img width="400" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tomdieu&" alt="tomdieu" /></p>
+
+<p><img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=tomdieu&" alt="tomdieu" /></p>
 
 <!--[![Wakatime](https://wakatime.com/share/@ivantom/8bc38c1a-0d4e-4f9f-9287-8cb0cdcdf4e9.svg)](https://wakatime.com/share/@ivantom/8bc38c1a-0d4e-4f9f-9287-8cb0cdcdf4e9.svg)
 -->
@@ -53,10 +52,9 @@
 </p>
 
 <p style="margin-top:10px">
-
-[![@ivantom wakatime stats]([[https://holopin.me/ivantom](https://wakatime.com/@ivantom)](https://wakatime.com/share/@ivantom/ff1c4290-c2e3-4f2b-8fb3-5c4d676aafcf.svg))]([https://holopin.io/@ivantom](https://wakatime.com/share/@ivantom/ff1c4290-c2e3-4f2b-8fb3-5c4d676aafcf.svg))
-  
+<!-- [![Tomdieu Wakatime Activity](https://wakatime.com/tomdieu)](https://wakatime.com/share/@ivantom/a8a29f6f-5998-4562-be1b-900bafbb5666.png) -->
 </p>
+<img src="https://wakatime.com/share/@ivantom/a8a29f6f-5998-4562-be1b-900bafbb5666.png" alt="Tomdieu" width="100%"  />
 
 <!---
 Tomdieu/Tomdieu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
