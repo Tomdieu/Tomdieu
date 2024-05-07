@@ -16,11 +16,11 @@
 
 <!-- - 🌱 I’m currently learning **NextJS,ElectronJs,React Native** -->
 
-- 👯 I’m looking to collaborate on [Django Project](#)
+- 👯 I’m looking to collaborate on [Django Projects](#)
 
 <!-- - 🤝 I’m looking for help with [Mapbox with React Native using Expo](#) -->
 
-- 💬 Ask me about **Django,ReactJs,Django Rest Framework**
+- 💬 Ask me about **Django,NextJs,Django Rest Framework**
 
 - 📫 How to reach me **ivan.tomdieu@gmail.com**
 
