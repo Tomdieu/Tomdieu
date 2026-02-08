@@ -14,6 +14,8 @@
 
 <!-- - 🔭 I’m currently working on [Transport Management System](#) -->
 
+- 🔭 I’m currently working on  **TrixEstate**
+
 <!-- - 🌱 I’m currently learning **NextJS,ElectronJs,React Native** -->
 
 - 👯 I’m looking to collaborate on [Django Projects](#)
