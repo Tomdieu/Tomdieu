@@ -14,9 +14,9 @@
 
 <!-- - 🔭 I’m currently working on [Transport Management System](#) -->
 
-- 🔭 I’m currently working on  **TrixEstate**
+- 🔭 I’m currently working on  **Trix**
 
-<!-- - 🌱 I’m currently learning **NextJS,ElectronJs,React Native** -->
+- 🌱 I’m currently learning **Go,React Native,Spring Boot**
 
 - 👯 I’m looking to collaborate on [Django Projects](#)
 
