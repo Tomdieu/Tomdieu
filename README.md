@@ -14,7 +14,7 @@
 
 <!-- - 🔭 I’m currently working on [Transport Management System](#) -->
 
-- 🔭 I’m currently working on  **Trix**
+- 🔭 I’m currently working on  **Trix,Janut-simulator,BilanKo**
 
 - 🌱 I’m currently learning **Go,React Native,Spring Boot**
 
